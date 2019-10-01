@@ -22,7 +22,7 @@ namespace Question1
             c1.CurrentSpeed = 0;
             c1.EngineSize = 1.2;
 
-            WriteLine($"The {c1.Make}")
+            //WriteLine($"The {c1.Make}")
         }
     }
     class Car
